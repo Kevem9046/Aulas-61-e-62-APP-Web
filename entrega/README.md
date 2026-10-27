@@ -22,5 +22,3 @@ Usei o menu para ir de uma página para outra e aproveitei um botão que já tin
 ## 4. Dificuldade encontrada e como foi resolvida
 
 Uma dificuldade foi aproveitar o botão de uma atividade antiga, porque ele estava em outro projeto. Então fiz uma versão dele aqui e usei no formulário. Também adaptei o checklist para ter páginas diferentes sem perder as tarefas nem o contador de progresso.
-
-Como não encontrei um link do protótipo no Figma, usei o checklist que já tinha feito como referência. Depois, publiquei o projeto no GitHub pelo link acima.
