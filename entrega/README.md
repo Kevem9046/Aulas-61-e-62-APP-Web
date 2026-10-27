@@ -17,10 +17,10 @@
 - `/tarefas/nova` — formulário para cadastrar uma tarefa e seus detalhes.
 - `*` — página de endereço não encontrado, com opção para voltar ao início.
 
-O menu usa `NavLink` para navegar entre as páginas. O componente `Botao`, adaptado de um projeto anterior, é reutilizado no formulário. As tarefas e o progresso ficam salvos no navegador.
+Usei o menu para ir de uma página para outra e aproveitei um botão que já tinha feito em outra atividade, adaptando-o para o formulário. Também mantive a lista de tarefas e o progresso, que ficam salvos no navegador.
 
 ## 4. Dificuldade encontrada e como foi resolvida
 
-O projeto anterior estava em outra pasta e seu botão não podia ser importado diretamente sem vincular os dois projetos. Para manter a aplicação independente e facilitar a entrega, recriei/adaptei o componente `Botao` dentro deste projeto e o usei no formulário. As tarefas originais do checklist e a atualização do progresso foram preservadas durante a conversão para páginas React.
+Uma dificuldade foi aproveitar o botão de uma atividade antiga, porque ele estava em outro projeto. Então fiz uma versão dele aqui e usei no formulário. Também adaptei o checklist para ter páginas diferentes sem perder as tarefas nem o contador de progresso.
 
-O protótipo Figma e um repositório GitHub não foram disponibilizados nesta pasta. Por isso, o checklist HTML foi usado como referência visual/funcional, e o link do GitHub permanece pendente de publicação.
+Como não encontrei um link do protótipo no Figma, usei o checklist que já tinha feito como referência. Depois, publiquei o projeto no GitHub pelo link acima.
