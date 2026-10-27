@@ -2,7 +2,7 @@
 
 ## 1. Link do repositório GitHub atualizado
 
-**Pendente:** este projeto ainda não está associado a um repositório GitHub. Depois de criar/publicar o repositório, cole o link aqui.
+[Repositório GitHub — Aulas-61-e-62-APP-Web](https://github.com/Kevem9046/Aulas-61-e-62-APP-Web)
 
 ## 2. Capturas das páginas e do menu
 
